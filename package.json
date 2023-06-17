@@ -1,10 +1,12 @@
 {
   "name": "@exlabs-recruitment-task-sm-common/coomon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.js",
-  "files": ["./build/**/*"],
+  "files": [
+    "./build/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
